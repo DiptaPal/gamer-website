@@ -219,9 +219,10 @@ nav {
   text-align: center;
   cursor: pointer;
   position: relative;
-  /* display: inline-block; */
+  display: inline-block;
 }
 .game-video-play img {
+  width: 100%;
   transition: filter 0.3s ease;
 }
 .play-btn {
